@@ -8,6 +8,7 @@ Currently contains the following mods:
 - Coroner
 - DiscountAlert
 - FlashlightToggle
+- Helmet_Cameras
 - HideChat
 - LateCompany
 - LC_API
