@@ -1,6 +1,6 @@
 {
 	"name": "CloudDistrictModPack",
-	"version_number": "1.0.1",
+	"version_number": "1.0.2",
 	"website_url": "https://github.com/dsarlo/CloudDistrictModPack",
 	"description": "This is a mod pack for Cloud District Gamers ONLY. Leave nerds!",
 	"dependencies": [
@@ -23,6 +23,7 @@
 		"tinyhoot-ShipLoot-1.0.0",
 		"RugbugRedfern-Skinwalkers-2.0.1",
 		"FlipMods-SkipToMultiplayerMenu-1.0.0",
-		"Renegades-WalkieUse-1.4.0"
+		"Renegades-WalkieUse-1.4.0",
+		"Evaisa-LethalThings-0.8.8"
 	]
 }
