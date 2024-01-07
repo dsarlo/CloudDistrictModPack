@@ -11,6 +11,7 @@ Currently contains the following mods:
 - Helmet_Cameras
 - HideChat
 - LateCompany
+- LethalThings
 - LC_API
 - LethalCompany_InputUtils
 - Mimics
