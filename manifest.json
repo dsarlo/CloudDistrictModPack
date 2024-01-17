@@ -1,6 +1,6 @@
 {
 	"name": "CloudDistrictModPack",
-	"version_number": "1.0.2",
+	"version_number": "1.0.3",
 	"website_url": "https://github.com/dsarlo/CloudDistrictModPack",
 	"description": "This is a mod pack for Cloud District Gamers ONLY. Leave nerds!",
 	"dependencies": [
@@ -24,6 +24,7 @@
 		"RugbugRedfern-Skinwalkers-2.0.1",
 		"FlipMods-SkipToMultiplayerMenu-1.0.0",
 		"Renegades-WalkieUse-1.4.0",
-		"Evaisa-LethalThings-0.8.8"
+		"Evaisa-LethalThings-0.8.8",
+		"sunnobunno-YippeeMod-1.2.3"
 	]
 }

@@ -24,3 +24,4 @@ Currently contains the following mods:
 - Skinwalkers
 - SkipToMultiplayerMenu
 - WalkieUse
+- YippeeMod
