@@ -22,6 +22,5 @@ Currently contains the following mods:
 - ShipClock
 - ShipLoot
 - Skinwalkers
-- SkipToMultiplayerMenu
 - WalkieUse
 - YippeeMod
