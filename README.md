@@ -5,6 +5,7 @@ Currently contains the following mods:
 
 - AlwaysHearActiveWalkies
 - BepInExPack
+- Boombox Controller
 - Coroner
 - DiscountAlert
 - FlashlightToggle
