@@ -5,7 +5,6 @@ Currently contains the following mods:
 
 - AlwaysHearActiveWalkies
 - BepInExPack
-- Boombox Controller
 - Coroner
 - DiscountAlert
 - FlashlightToggle
@@ -20,7 +19,6 @@ Currently contains the following mods:
 - More_Suits
 - MoreCompany
 - NameplateTweaks
-- ShipClock
 - ShipLoot
 - Skinwalkers
 - WalkieUse
